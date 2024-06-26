@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"p_from3_to2",
+  "closed":false,
+  "kind":0,
+  "name":"p_from3_to2",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":672.0,"y":160.0,},
+    {"speed":100.0,"x":800.0,"y":544.0,},
+    {"speed":100.0,"x":704.0,"y":640.0,},
+    {"speed":100.0,"x":704.0,"y":640.0,},
+    {"speed":100.0,"x":672.0,"y":800.0,},
+    {"speed":100.0,"x":608.0,"y":832.0,},
+    {"speed":100.0,"x":608.0,"y":896.0,},
+    {"speed":100.0,"x":800.0,"y":928.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

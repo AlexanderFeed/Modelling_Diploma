@@ -1,0 +1,23 @@
+{
+  "$GMPath":"",
+  "%Name":"p_from_f_build_to_home1",
+  "closed":false,
+  "kind":0,
+  "name":"p_from_f_build_to_home1",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":128.0,"y":704.0,},
+    {"speed":100.0,"x":224.0,"y":704.0,},
+    {"speed":100.0,"x":224.0,"y":480.0,},
+    {"speed":100.0,"x":128.0,"y":384.0,},
+    {"speed":100.0,"x":320.0,"y":352.0,},
+    {"speed":100.0,"x":224.0,"y":288.0,},
+    {"speed":100.0,"x":224.0,"y":160.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
